@@ -1,2 +1,4 @@
 CHANGELOG.md
 **/build
+.gradle
+.gitignore
