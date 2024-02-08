@@ -1,4 +1,6 @@
 CHANGELOG.md
-build
-.gradle
+build/
+.gradle/
 .gitignore
+.git/
+.gitattributes
